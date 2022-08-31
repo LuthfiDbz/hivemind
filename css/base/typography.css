@@ -1,0 +1,7 @@
+body {font-family: var(--font-family);}
+h1 {font-size: var(--font64px);}
+h2 {font-size: var(--font57px);}
+h3 {font-size: var(--font45px);}
+h4 {font-size: var(--font24px);}
+h5 {font-size: var(--font18px);}
+p {font-size: var(--font14px);}

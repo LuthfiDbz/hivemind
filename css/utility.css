@@ -1,0 +1,36 @@
+.bg-dark {
+  background-color: var(--primary-color) !important;
+}
+
+.bg-light {
+  background-color: var(--tertiary3-color) !important;
+}
+
+.bg-blue {
+  background-color: var(--tertiary-color) !important;
+}
+
+.bg-purple {
+  background-color: var(--tertiary2-color);
+}
+
+.text-white {
+  color: var(--secondary-color) !important;
+}
+
+.text-dark {
+  color: var(--on-secondary-color) !important;
+}
+
+.btn {
+  border-radius: 5px;
+  padding-inline: 16px;
+  padding-block: 8px;
+}
+
+.btn-primary {
+  border: none;
+  background-color: var(--secondary-color) !important;
+  color: var(--primary-color) !important;
+  font-weight: 700;
+}

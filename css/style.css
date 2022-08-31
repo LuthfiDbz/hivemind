@@ -1,0 +1,15 @@
+.container {
+  height: 95vh;
+}
+
+.img-website {
+  color: red;
+  padding-block: 1rem;
+}
+
+.works .row div {
+  background-size: cover;
+  background-position: center;
+  background-color: #fff !important;
+  height: 16rem;
+}
